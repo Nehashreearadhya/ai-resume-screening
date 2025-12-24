@@ -1,0 +1,8 @@
+transformers
+sentence-transformers
+streamlit
+pypdf
+python-docx
+pandas
+fpdf
+torch
